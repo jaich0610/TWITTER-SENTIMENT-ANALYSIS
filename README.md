@@ -1,2 +1,1 @@
-# TWITTER-SENTIMENT-ANALYSIS
-TWITTER SENTIMENT ANALYSIS USING NAIVE BAYES CLASSIFIER IN PYTHON
+## In this case study, we will build, train, test and deploy an Artificial Intelligence (AI) model to predict sentiment from thousands of tweets. Sentiment prediction involves understanding of people feelings about a product or service.
